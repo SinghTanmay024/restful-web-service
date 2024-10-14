@@ -30,7 +30,7 @@ To get started, clone the repository using the following command:
 git clone <repository-url>
 ```
 
-Replace `<repository-url>` with the actual URL of the repository.
+Replace `[<repository-url>`](https://github.com/SinghTanmay024/restful-web-service.git) with the actual URL of the repository.
 
 ## Setting Up the Project
 
