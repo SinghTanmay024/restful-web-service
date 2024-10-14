@@ -27,10 +27,8 @@ This is a RESTful web service developed using Java and Spring Boot. The service 
 To get started, clone the repository using the following command:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/SinghTanmay024/restful-web-service.git
 ```
-
-Replace `[<repository-url>`](https://github.com/SinghTanmay024/restful-web-service.git) with the actual URL of the repository.
 
 ## Setting Up the Project
 
@@ -40,19 +38,11 @@ Replace `[<repository-url>`](https://github.com/SinghTanmay024/restful-web-servi
    cd <project-directory>
    ```
 
-2. **Install Dependencies**:
-
-   Make sure you have Maven installed. Run the following command to install the necessary dependencies:
-
-   ```bash
-   mvn install
-   ```
-
-3. **Refresh `pom.xml`**:
+2. **Refresh `pom.xml`**:
 
    If you're using an IDE, refresh the `pom.xml` file to ensure all dependencies are properly configured. This can usually be done by right-clicking on the `pom.xml` file and selecting "Maven" > "Reload Project".
 
-4. **Configure `android.properties`**:
+3. **Configure `android.properties`**:
 
    Locate the `android.properties` file in the project. Update the following properties with your username and password:
 
@@ -61,7 +51,7 @@ Replace `[<repository-url>`](https://github.com/SinghTanmay024/restful-web-servi
    user.password=your_password
    ```
 
-5. **Run the Application**:
+4. **Run the Application**:
 
    You can run the application as a Spring Boot application by executing:
 
@@ -76,7 +66,7 @@ Replace `[<repository-url>`](https://github.com/SinghTanmay024/restful-web-servi
 Once the application is running, you can access the API endpoints at:
 
 ```
-http://localhost:8080/api
+http://localhost:8080/
 ```
 
 (Adjust the base URL and port if you have configured them differently.)
