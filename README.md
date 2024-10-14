@@ -66,7 +66,7 @@ git clone https://github.com/SinghTanmay024/restful-web-service.git
 Once the application is running, you can access the API endpoints at:
 
 ```
-http://localhost:8080/
+http://localhost:8080/users
 ```
 
 (Adjust the base URL and port if you have configured them differently.)
